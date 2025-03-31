@@ -19,7 +19,7 @@ This simple extension extracts data your "My Assignments" page and copy it to yo
 
 ## How to Use it:
 
-###Run the Extractor:
+### Run the Extractor:
 
 1. Visit Basecamp's My Assignments page (Menu Item: My Stuff > My Assignments)
 2. Click the extension icon in the Chrome toolbar.
