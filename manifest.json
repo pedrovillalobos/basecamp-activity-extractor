@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Basecamp Assignment Extractor",
+  "version": "0.1",
+  "description": "Extract assignment details from Basecamp's My Assignements page, the page and copy TSV data ready to be pasted in Google Sheets.",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "clipboardWrite"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  }
+}

@@ -1,4 +1,8 @@
-# How to Use
+# basecamp-activity-extractor
+
+This simple extension extracts data your "My Assignments" page and copy it to your clipboard, ready to be pasted in Google Sheets
+
+## How to Use
 
 1. Load the Extension:
    • Open Chrome and navigate to chrome://extensions/.
@@ -11,4 +15,3 @@
    • In the popup, click Extract Assignments.
    • The extension will inject the extraction code into the page and copy the tab‑separated data to your clipboard.
    • Now you can paste it directly into Google Sheets, with each field automatically placed in its own column.
-# basecamp-activity-extractor
